@@ -58,6 +58,7 @@ h1, h2 {
 
 .floatLeft{
 	float: left;
+	padding-top: 10px;
 }
 
 .floatRight{
@@ -339,6 +340,4 @@ a:hover{
 
 #frise{
 	size: auto;
-
-
 }
