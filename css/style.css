@@ -151,11 +151,6 @@ img.left{
 }
 
 
-
-a{                                
-    color: rgb(130,130,130);
-}
-
 a[href^="#"]{       
     text-decoration: none;
     color: black;
