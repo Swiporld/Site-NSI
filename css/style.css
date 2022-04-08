@@ -277,19 +277,23 @@ footer address{
 #grid #py{
 	background: url("img/software.jpg") no-repeat 50% 50%;
 	background-size: cover;
+	border-radius: 10px;
 }
 #grid #pc{
 	background: url("img/hardware.jpg") no-repeat 50% 50%;
 	background-size: cover;
+	border-radius: 10px;
 }
 #grid #os{
 	background: url("img/systeme-exploitation-OS.webp") no-repeat 50% 50%;
 	background-size: cover;
+	border-radius: 10px;
 }
 
 #grid #phrise{
 	background: url("img/phrise.jpg") no-repeat 50% 50%;
 	background-size: cover;
+	border-radius: 10px;
 }
 
 a{
