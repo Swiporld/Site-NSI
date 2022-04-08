@@ -157,7 +157,11 @@ a[href^="#"]{
     cursor: pointer;
 }
 
+abbr{
+	color:mediumpurple;
 
+
+}
 
 #wrapper{
 	min-height: 100%;
