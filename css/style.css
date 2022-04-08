@@ -304,14 +304,6 @@ a:hover{
 	color:#0817e6;
 	
 	}
-title{
-	color:darkmagenta;
-
-
-}
-
-
-
 .externalLinks{
 	margin-top: 100px;
 	font-style: italic;
@@ -343,3 +335,10 @@ title{
 		padding:10px;
 		background:#FFFFFF;
 	}
+
+
+#frise{
+	size: auto;
+
+
+}
