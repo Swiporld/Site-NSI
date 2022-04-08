@@ -223,7 +223,7 @@ footer address{
 }
 
 #navigation ul li a {
-	display: relative;
+	display: block;
 	padding: 9px;
 	text-decoration: none;
 	color: #FFF;
