@@ -59,6 +59,7 @@ h1, h2 {
 .floatLeft{
 	float: left;
 	padding-top: 10px;
+	padding-bottom: 10px;
 }
 
 .floatRight{
@@ -222,7 +223,7 @@ footer address{
 }
 
 #navigation ul li a {
-	display: block;
+	display: relative;
 	padding: 9px;
 	text-decoration: none;
 	color: #FFF;
