@@ -171,11 +171,7 @@ h1, h2 {
 #content table {
     border-collapse: collapse;
 }
-table{
-	border-radius: 10px;
 
-
-}
 #content table, td, th {
 	padding: 5px;
     border: 1px solid black;
